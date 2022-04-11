@@ -1,0 +1,20 @@
+.Dashboard {
+    padding-top: 10%;
+    width: 100%;
+    height: flex;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.dash {
+    width: 100%;
+}
+.dash1 {
+    width: 40%;
+    float: left;
+}
+.dash2 {
+    width: 40%;
+    float: left;
+}
